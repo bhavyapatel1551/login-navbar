@@ -1,0 +1,113 @@
+[
+{
+"sname":"Dharmik",
+"sid":84,
+"password":"12345",
+"mobileNo":987461231,
+"email":"dharmik@gmail.com",
+"address":"Radhanpur",
+"cgpa":7.00,
+"jobType":"HELPER",
+"branch":"CE"
+},
+{
+"sname":"Dev",
+"sid":83,
+"password":"dev123",
+"mobileNo":987461213,
+"email":"dev@gmail.com",
+"address":"Surat",
+"cgpa":9.00,
+"jobType":"ANDROID",
+"branch":"CE"
+},
+{
+"sname":"Kathan",
+"sid":101,
+"password":"kathan123",
+"mobileNo":637461231,
+"email":"kathan@gmail.com",
+"address":"Adipur",
+"cgpa":7.5,
+"jobType":"MANAGEMENT",
+"branch":"IT"
+},
+{
+    "sname":"Bhavya",
+    "sid":79,
+    "password":"bhavya123",
+    "mobileNo":6353744879,
+    "email":"bhavya@gmail.com",
+    "address":"Adipur",
+    "cgpa":8.00,
+    "jobType":"WEBDEVELOPMENT",
+    "branch":"CE"
+},
+{
+    "sname":"Ayush",
+    "sid":54,
+    "password":"ayush123",
+    "mobileNo":657461213,
+    "email":"ayush@gmail.com",
+    "address":"Porbandar",
+    "cgpa":6.00,
+    "jobType":"ANDROID",
+    "branch":"IT"
+},
+{
+    "sname":"Dhruv",
+    "sid":55,
+    "password":"dhruv123",
+    "mobileNo":647461213,
+    "email":"dhruv@gmail.com",
+    "address":"Porbandar",
+    "cgpa":6.5,
+    "jobType":"ANDROID",
+    "branch":"CE"
+},
+{
+    "sname":"Fenil",
+    "sid":15,
+    "password":"fenil123",
+    "mobileNo":657461243,
+    "email":"fenil@gmail.com",
+    "address":"Surat",
+    "cgpa":5.00,
+    "jobType":"HELPER",
+    "branch":"IT"
+},
+{
+    "sname":"Yash",
+    "sid":17,
+    "password":"yash123",
+    "mobileNo":618461213,
+    "email":"yash@gmail.com",
+    "address":"Surat",
+    "cgpa":7.00,
+    "jobType":"WEBDEVELOPMENT",
+    "branch":"CE"
+},
+{
+    "sname":"Harsh",
+    "sid":59,
+    "password":"harsh123",
+    "mobileNo":623461213,
+    "email":"harsh@gmail.com",
+    "address":"Patan",
+    "cgpa":9.00,
+    "jobType":"MANAGEMENT",
+    "branch":"CE"
+},
+{
+    "sname":"Om",
+    "sid":80,
+    "password":"om123",
+    "mobileNo":698461213,
+    "email":"om@gmail.com",
+    "address":"Surat",
+    "cgpa":7.00,
+    "jobType":"HELPER",
+    "branch":"IT"
+}
+
+]

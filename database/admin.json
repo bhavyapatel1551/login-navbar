@@ -1,0 +1,20 @@
+[
+    {
+        "aid":1001,
+        "password":"admin1001",
+        "aname":"Admin1001",
+        "email":"admin1001@gmail.com"
+    },
+    {
+        "aid":1002,
+        "password":"admin1002",
+        "aname":"Admin1002",
+        "email":"admin1002@gmail.com"
+    },
+    {
+        "aid":1003,
+        "password":"admin1003",
+        "aname":"Admin1003",
+        "email":"admin1003@gmail.com"
+    }
+]
